@@ -14,6 +14,10 @@ At the moment, nothing!
 
 Once completed, it will initially allow the user to enter a word or words and search for correspondences among other words. Accent and rhyme may be added later depending on the availability of open datasets.
 
+## How will it work?
+
+Regular expressions, MySQL, and PHP.
+
 ## What does this solver not do?
 
 It won't write poems for you. Or at least, not good ones.
